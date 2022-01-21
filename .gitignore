@@ -1,6 +1,17 @@
 # Compiled class file
 *.class
 
+/out/
+/.DS_Store
+/src/test/test.iml
+.classpath
+.project
+.settings/
+/bin/
+/test-output/
+/target
+/.idea/
+/src/main/main.iml
 # Log file
 *.log
 
