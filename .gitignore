@@ -14,9 +14,7 @@
 /src/main/main.iml
 # Log file
 *.log
-
-# BlueJ files
-*.ctxt
+/.IntegralAssignment.iml
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
