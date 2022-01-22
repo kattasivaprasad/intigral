@@ -38,3 +38,6 @@ You should have allure cli installed in your system to see the report in browser
 "npm install -g allure-commandline --save-dev"
 
 
+Please delete the allure-results folder under target frequently.
+
+
