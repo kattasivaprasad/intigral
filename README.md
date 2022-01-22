@@ -24,11 +24,17 @@ Note:
 This will run the whole feature file. If need the execution of particular scenario then
 change the tag name accordingly.
 
-How to check the report:
-Once the execution is completed
-1. Open terminal and navigate to your peoject location
+#How to check the report:
+Once the execution completed
+1. Open terminal and navigate to your project location
 2. Once you are in project location go to target folder using command (cd target)
 3. Enter the command allure serve
 4. The report will be generated and will be automatically opened in your browser
+
+
+Note:
+You should have allure cli installed in your system to see the report in browser. The below command will install the allure cli
+
+"npm install -g allure-commandline --save-dev"
 
 
